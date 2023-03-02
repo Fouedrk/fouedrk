@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fouedrk
-- 👀 I’m interested in web development, Devops and system administration.
-- 🌱 I’m currently learning different framework such as JEE, node Js and react
-- 💞️ I’m looking to collaborate on different project for communities such as students and children
+- 👀 I’m interested in Devops, system administration and cloud.
+- 🌱 I’m currently learning different DevOps tools, mainly terraform, jenkins, kubernetes and ansible.
+- 💞️ I’m looking to collaborate on different project for communities such as students and children.
 - 📫 How to reach me ( fouedrekik97@gmail.com or +216 26 177 509 )
 
 <!---
